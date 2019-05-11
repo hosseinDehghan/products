@@ -1,0 +1,16 @@
+{
+    "name": "hosein/products",
+    "description": "this is Products package",
+    "authors": [
+        {
+            "name": "HosseinDehghan",
+            "email": "h.dehghan72@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hosein\\Products\\": "src/"
+        }
+    },
+    "require": {}
+}
